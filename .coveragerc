@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit = *migrations*,
+       *urls*,
+       *test*,
+       *admin*,
+       ./encuestas-backend-django/config/*,
+       ./encuestas-backend-django/manage.py,
+       ./encuestas-backend-django/wsgi.py,
+       *__init__*
