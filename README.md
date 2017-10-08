@@ -15,7 +15,7 @@ Asi que primero abrimos la terminal e instalamos VirtualEnv (para más info: htt
 Dentro del directorio .../encuestas-backend-django vamos a crear el entorno virtual con la siguiente sintaxis:
 virtualenv nombreParaTuEscritorio
 -> virtualenv env
-
+(Algunos ejemplos de errores comunes con virtualenv ... https://tutorial.djangogirls.org/es/django_installation/ )
 Eso crea un al entorno virtual y deberias ver caomo en la terminal aparece algo similar a esto:
 (env) nombreUsuario:~/.../encuestas-backend-django
 Ahora queda instalar la dependencias del proyecto:
