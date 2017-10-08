@@ -24,7 +24,8 @@ Ahora queda instalar la dependencias del proyecto:
 Y lanzar el proyecto:
 -> python manage.py runserver
 
-
+Para salir del entorno virtual actual
+-> deactivate
 
 
 
